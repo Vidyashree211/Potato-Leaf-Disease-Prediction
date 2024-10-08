@@ -8,3 +8,5 @@ The primary components of this project include data collection, pre-processing, 
 Tools and Technologies: Sequential Model, AlexNet, VGG-16, VGG-19, ResNet50
 Programming language: Python
 Dataset Source: Kaggle
+
+Conclusion: VGG19 is the best performing algorithm with an accuracy of 92.55% to classify and predict the potato leaf disease.

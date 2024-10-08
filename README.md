@@ -5,5 +5,5 @@ Potato leaf diseases pose significant challenges to farmers, leading to reduced 
 
 The primary components of this project include data collection, pre-processing, model architecture, model training, evaluation.
 
-Tools and Technologies: Sequential Model, ResNet, AlexNet, VGG-16, VGG-19
+Tools and Technologies: Sequential Model, AlexNet, VGG-16, VGG-19, ResNet50
 Programming language: Python

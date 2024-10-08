@@ -7,3 +7,4 @@ The primary components of this project include data collection, pre-processing, 
 
 Tools and Technologies: Sequential Model, AlexNet, VGG-16, VGG-19, ResNet50
 Programming language: Python
+Dataset Source: Kaggle
